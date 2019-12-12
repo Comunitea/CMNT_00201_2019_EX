@@ -128,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Buildout
+.mr.developer.cfg
+bin/
+eggs-custom/
+etc/
+odoo-repos/
+sandbox/
+upgrade.py
